@@ -11,7 +11,7 @@
 **About Me:**
 
 
-- I’m Backend developer.
+- I’m a Backend developer.
 - I’m mainly interested in __Backend Development__.
 - I’m currently learning __Java__, __C#__, __Node.js__, __React__.
 - I’m looking to collaborate on anything!
